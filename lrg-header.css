@@ -86,7 +86,7 @@ height: 100%;
 	display: inline-block; 
 
 	height: 100%;
-    background-color:lime;
+   /*background-color:lime;*/
 	width: 910px;
 	/* background: url(../img/logo.png) no-repeat;  */
 	background-size: cover;
